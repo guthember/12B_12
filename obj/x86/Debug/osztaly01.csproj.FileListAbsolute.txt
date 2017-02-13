@@ -1,0 +1,4 @@
+C:\Users\guthe\documents\visual studio 2010\Projects\osztaly01\bin\Debug\osztaly01.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\osztaly01\bin\Debug\osztaly01.pdb
+C:\Users\guthe\documents\visual studio 2010\Projects\osztaly01\obj\x86\Debug\osztaly01.exe
+C:\Users\guthe\documents\visual studio 2010\Projects\osztaly01\obj\x86\Debug\osztaly01.pdb
